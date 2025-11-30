@@ -101,3 +101,4 @@ print(transcription)
 
 * **Text Normalization:** Implement a scoring metric that handles variable Arabizi spelling (e.g., ignoring case, merging 3 and a, fixing splits) to reduce WER.  
 * **Increase Training:** 500 steps was sufficient for script switching, but more training is needed to fix word segmentation ambiguities.
+* **Use another metric for synonym problem using BERT:** The model sometimes substitutes the specific dialect word used in the reference with a common synonym (Taychof # Kaychof)
