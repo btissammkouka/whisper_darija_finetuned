@@ -1,4 +1,4 @@
-# ** Whisper Fine-Tuning for Moroccan Darija (Latin Script) 🇲🇦 **
+# **Whisper Fine-Tuning for Moroccan Darija (Latin Script) 🇲🇦**
 
 This repository contains a Jupyter Notebook for fine-tuning OpenAI's **Whisper Small** model to transcribe Moroccan Darija audio directly into **Latin script (Arabizi/Chat Darija)**.
 
